@@ -1,0 +1,121 @@
+   a{
+            color: white;
+            text-decoration: none;
+        }
+	.tdtheme{
+	text-transform:uppercase;
+	font-size:15px;
+	font-family:sans-serif;
+	color:black;
+        align-items: centre;
+	}
+        .texttheme{
+            width:200px;
+            height:40px;
+            background-color:black;
+            color:white;
+            border-radius: 30px;
+        }
+        .textareatheme{
+            width:200px;
+            height:200px;
+            background-color:black;
+            color:white;
+            border-radius: 30px;
+        }
+          .atextareatheme{
+            width:200px;
+            height:150px;
+            background-color:black;
+            color:white;
+            border-radius: 10px;
+        }
+        .labeltheme{
+            color:white;
+            font-size:13px;
+            text-align: center;
+            font-family: arial;
+            font-weight: bold;
+            text-transform: uppercase;
+     
+        }
+          
+.tdtheme1{
+ width:20px;
+ height:10px;
+text-transform:uppercase;
+font-size:20px;
+font-family:sans-serif;
+}
+.tdtheme:hover{
+background-color:white;
+border-radius:5px;
+
+}
+.LOGO{
+    font-size: 50px;
+    font-family: sans-serif;
+    color: white;  
+  
+}
+.Login
+{
+    font-family: sans-serif;
+    font-size:10px;
+    padding:80px;   
+}
+.msg{
+    font-family: monospace;
+    font-size: 20;
+    color: white;
+    border:  skyblue;
+    margin-right: 50px;
+    margin-top: 250px;   
+}
+.current{
+text-transform:uppercase;
+font-size:15x;
+font-family:sans-serif;
+background-color:white;
+border-radius:20px;
+}
+.left{
+    width: "30%";
+    border: 2px solid grey;
+    margin-left: 850px;
+    margin-top: 50px;
+}
+.menu a{
+    font-size: 15px;
+    color: white;
+   
+    font-weight: bold;
+    padding: 20px 20px;
+    margin: 5px;
+    text-decoration: none;
+}
+.buttontheme{
+    background-color:black;
+    color:white;
+    font-family: arial;
+    font-size: 15px;
+}
+nav{
+    	width: 100%;
+	height: 80px;
+	border-bottom: 3px solid grey;
+	box-shadow: 2px 0px 5px grey;
+	display :flex;
+	justify-content:  space-around;
+	align-items: center;
+}
+body{
+    background-size:100%
+}
+.logdiv{
+    border-radius: 47px;
+}
+
+.regdiv{
+    border-radius: 47px;
+}
